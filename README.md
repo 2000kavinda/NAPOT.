@@ -74,7 +74,7 @@ Same as we added current existing function that are available in the web version
 Functional requirements are described by following use case diagram, DFD and interfaces descriptions.
 </p>
 <br><br><br>
-<h3>UseCase Diagram
+<h3>Use Case Diagram
 </h3>
 <br>
 
