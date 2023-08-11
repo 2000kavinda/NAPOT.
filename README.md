@@ -4,7 +4,6 @@
 
 <a href="https://drive.google.com/file/d/1cC6guzPNV7Puz0fy87diFaXsz6a8I_bL/view?usp=sharing">Short video "How NAPOT Application works"</a>
 <br><br>
-<a href="https://drive.google.com/file/d/1TSFbJXFz8TZhQzdMTTUVzDifRrfinvHS/view?usp=sharing">View full report</a>
 
 <h1>Summary from full report</h1>
 <h2>Introduction</h2>
