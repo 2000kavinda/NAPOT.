@@ -1,7 +1,7 @@
 # NAPOT.
-"NSBM All Portal"
+"NSBM All Portal"<br>
+<img width="190" alt="Screenshot 2023-08-08 at 15 35 25" src="https://github.com/2000kavinda/NAPOT./assets/98000159/48b240af-bd20-4c0e-a90b-2f2a521f83b4">
 
-<br>
 <h2>Introduction</h2>
 <p>main concept
 "One app for the all parties of NSBM"
@@ -78,7 +78,9 @@ Functional requirements are described by following use case diagram, DFD and int
 <img width="472" alt="Screenshot 2023-08-08 at 15 50 37" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/cc279914-7dab-47c8-844d-bf16c1f2f2cf">
 <img width="481" alt="Screenshot 2023-08-08 at 15 50 48" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/f651b951-1db7-4f75-afb8-cf18bf9813a3">
 
-<br><br>
+<br>
+<a href="https://drive.google.com/file/d/1d10Gk66QthiG14PUd-yLrex8VxUo7coo/view">View full use case diagram</a>
+<br>
 <P>
   This use case enables users to log into the system and access the appropriate functionalities according to their role. The various user roles are lecturer, Admin, student, canteen, librarian and guest. To login to the system, lecturer, student, Admin, canteen and librarian must enter their unique username and password. Cleaning staff and security staff can enter the system using guest mode.
 There are six main actors,<br><br>
