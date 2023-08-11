@@ -17,9 +17,9 @@ Guest
 Other parties can use system after creating account in the system with some restriction levels because of security concerns.
 We hope to use following technologies in our development process of this application.</p>
 <div>
-<img width="111" alt="Screenshot 2023-08-08 at 15 35 17" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/37493943-e742-4417-8a45-5274acd15f21">
-<img width="120" alt="Screenshot 2023-08-08 at 15 35 21" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/c5985623-d13e-4a72-aaef-896d90e03d27">
-<img width="90" alt="Screenshot 2023-08-08 at 15 35 25" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/19499540-8bff-45e8-8554-2d46babffa9c">
+  
+![image](https://github.com/2000kavinda/NAPOT./assets/98000159/805062a4-dd17-439f-8c35-6af8ebaa5784)
+
 </div>
 <br><br>
 <h3>Problem Identification</h3>
@@ -77,14 +77,15 @@ Functional requirements are described by following use case diagram, DFD and int
 <h3>UseCase Diagram
 </h3>
 <br>
-<img width="479" alt="Screenshot 2023-08-08 at 15 50 14" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/b995a544-5f43-4e26-b935-bc4e743a9ca5">
-<img width="486" alt="Screenshot 2023-08-08 at 15 50 28" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/e5979434-ca17-4baa-bffe-d70f71ae5e06">
-<img width="472" alt="Screenshot 2023-08-08 at 15 50 37" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/cc279914-7dab-47c8-844d-bf16c1f2f2cf">
-<img width="481" alt="Screenshot 2023-08-08 at 15 50 48" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/f651b951-1db7-4f75-afb8-cf18bf9813a3">
+
+![use_case drawio-1](https://github.com/2000kavinda/NAPOT./assets/98000159/858e185a-1d62-430e-8df9-08f691fb1103)
+![use_case drawio-2](https://github.com/2000kavinda/NAPOT./assets/98000159/e3299bc3-340a-42b8-9309-ea1304ca0959)
+![use_case drawio-3](https://github.com/2000kavinda/NAPOT./assets/98000159/0586b325-bd68-42e9-a477-50c0011eef88)
+![use_case drawio-4](https://github.com/2000kavinda/NAPOT./assets/98000159/bba724c3-3700-4bfb-8d2f-f35019bf1a5b)
 
 <br>
 <a href="https://drive.google.com/file/d/1d10Gk66QthiG14PUd-yLrex8VxUo7coo/view">View full use case diagram</a>
-<br>
+<br><br>
 <P>
   This use case enables users to log into the system and access the appropriate functionalities according to their role. The various user roles are lecturer, Admin, student, canteen, librarian and guest. To login to the system, lecturer, student, Admin, canteen and librarian must enter their unique username and password. Cleaning staff and security staff can enter the system using guest mode.
 There are six main actors,<br><br>
@@ -104,12 +105,16 @@ New students also come to the system as guest and they can explore the functiona
 <br><br>
 <h3>DFD Diagram</h3>
 <br><br><br>
-<img width="481" alt="Screenshot 2023-08-08 at 15 54 54" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/84130016-598b-4a2a-86b9-7f3534b1a3fb"><br>
-<img width="477" alt="Screenshot 2023-08-08 at 15 55 06" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/6c6878d1-9dac-4af3-942a-900dfa2a8964"><br>
-<img width="419" alt="Screenshot 2023-08-08 at 15 55 13" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/23fb64b8-f938-49d3-9f29-2988368555d7"><br>
-<img width="363" alt="Screenshot 2023-08-08 at 15 55 19" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/63e73814-260a-44b1-8fc4-7e36744d939a"><br>
-<a href="https://drive.google.com/file/d/1Dv8vxNGOr3WjXRGVpkJr57AyZV9-ziB3/view">View full DFD diagram</a>
+
+![maddfd drawio-1](https://github.com/2000kavinda/NAPOT./assets/98000159/605fbe0d-4a61-4060-8764-c96caa3a40f9)
+![maddfd drawio-2](https://github.com/2000kavinda/NAPOT./assets/98000159/e88e27ea-fc97-4da5-82a5-09cf4da18205)
+![maddfd drawio-3](https://github.com/2000kavinda/NAPOT./assets/98000159/86364055-f8a1-4a2e-82bd-8cdefdb3d1fd)
+![maddfd drawio-4](https://github.com/2000kavinda/NAPOT./assets/98000159/9a36543a-2831-4ef7-b9c9-9272b88014ca)
+
+
 <br>
+<a href="https://drive.google.com/file/d/1Dv8vxNGOr3WjXRGVpkJr57AyZV9-ziB3/view">View full DFD diagram</a>
+<br><br>
 
 <p>After filling in the student registration form, the details related to the registration form will go to the admin through the signup process. After the admin checks it and accepts the student's registration, the login credentials will go to the student through the approve registration process. Also, the registry data and student credentials data are stored in the student data database.<br><br>
 When student try log in to the system, the login process allows the student to enter the system by checking the data in the student data database.<br><br>
@@ -155,33 +160,53 @@ The student can utilize third-party services integrated into the platform.
 <br><br>This use case diagram provides an overview of the main functionalities and interactions between the student and the NSBM learning platform. It encompasses activities from registration to accessing various resources and services provided by the platform.
 </p>
 <br><br><br><br>
-<img width="521" alt="Screenshot 2023-08-08 at 16 11 57" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/051814e9-1c83-4bc6-9921-ec12613d1254">
+
+<img width="521" alt="259074328-051814e9-1c83-4bc6-9921-ec12613d1254" src="https://github.com/2000kavinda/NAPOT./assets/98000159/9149bdc8-1ec1-4d6d-b730-bee0acdb8b71">
+
+
 <P>By using this login page, students who are already at the university can log into the application with the email address and password provided by the university. Also, they can change the password using the forgotten password.
 By using this login page, students who are already not at the university can log into the application.for that they should submit their certifications required by the university such as o/l,a/l result sheet.as well as they can submit their DOCUMENT by using choose file option.
 after completing thire paymentTheir request will be received by the administrator who will consider them and make selections for graduation. After the registration is completed, the admin will send an email and password to the concerned person which he can use to log into the application from the login page.</P>
 <br><br>
-<img width="506" alt="Screenshot 2023-08-08 at 16 12 10" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/ea9bfaa5-d2b9-4655-8806-9962b23e6884">
-<img width="519" alt="Screenshot 2023-08-08 at 16 13 20" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/97dd87a4-d0b2-483b-9176-d4079e61d41c">
+
+<img width="506" alt="259074505-ea9bfaa5-d2b9-4655-8806-9962b23e6884" src="https://github.com/2000kavinda/NAPOT./assets/98000159/190364ac-3a73-4230-bb58-a803b46922d5">
+<img width="519" alt="259074622-97dd87a4-d0b2-483b-9176-d4079e61d41c" src="https://github.com/2000kavinda/NAPOT./assets/98000159/3569435e-3eab-42b5-a439-6e644fd8a2e8">
+
+
+
 <p>In the home page students can get knowledge about our university. What are degree programs offered by NSBM and how is the value of these degree programs. Also we can get information about the university faculties and course details. Such as course duration, course fee, undergraduate, post graduate and PHD etc. And also students can get details about the next intake. Such as how many students are get the intake, when is the intake date, what is the batch, enrolment qualifications etc. If users want to see the university in virtually they can click the virtual Tour button and see the university.
 We can get to know about the what are the foreign universities engaged with NSBM. We can get more information about the Plymouth university UK and their degree programs, Victoria university Australia and their degree programs.</p>
 <br><br><br>
-<img width="515" alt="Screenshot 2023-08-08 at 16 14 21" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/6d18b17c-dbaa-4cc9-8204-f1263df8ca74">
+
+<img width="515" alt="259074836-6d18b17c-dbaa-4cc9-8204-f1263df8ca74" src="https://github.com/2000kavinda/NAPOT./assets/98000159/669f1466-be2c-4414-bcbf-c2209531fc41">
+
 <p>In this facility page all the users can see the what facilities have in NSBM green university.
 Also users can get knowledge about the all university facilities and current university facilities. The facility page is categorized as lecture hall facility, library facility, co- curricular activity, library facility, student accommodation facility and recreational facility etc.
 Also in the lab facility users can how many labs are in the university and what kind if labs are they. Such as how many IT labs, how many bio medical as well.</p>
 <br><br><br>
-<img width="505" alt="Screenshot 2023-08-08 at 16 15 11" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/b9f723f4-4d66-487a-9ebe-9750ffd8f31b">
+
+<img width="505" alt="259075055-b9f723f4-4d66-487a-9ebe-9750ffd8f31b" src="https://github.com/2000kavinda/NAPOT./assets/98000159/a26419b6-2a21-4ee6-bff3-5eb3dace04f6">
+
 <p>In the student profile all the university students can see their batch, degree, GPA and the credits. Also they can see their personal details such as full name, NIC number, contact number, student ID, guardian name and the contact number etc. As well as students can add their skills to this page and can update it. If students joined some clubs and societies they can add them too. Addition to that students can add academic certificates they got. Students can chat with their lecturers through this platform and can clarify their problems.
 There is a notification panel in this page. Then the students receive a notifications for their future activities. Also if student have a question to solve they can type that question in question forum and get help from others to solve that.</p>
-<br><br><br><img width="515" alt="Screenshot 2023-08-08 at 16 16 00" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/268b911e-14f3-4da3-af4f-1508c77cff2d">
-<img width="506" alt="Screenshot 2023-08-08 at 16 16 08" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/a56acec9-e5c8-4684-8de7-090549bd59ee">
 <br><br><br>
-<img width="510" alt="Screenshot 2023-08-08 at 16 16 43" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/a407c1db-94fe-4540-8b49-1bd99608c47d">
+
+<img width="515" alt="259075236-268b911e-14f3-4da3-af4f-1508c77cff2d" src="https://github.com/2000kavinda/NAPOT./assets/98000159/014a03b0-cb20-448f-be80-c0ff0a207aed">
+<img width="506" alt="259075253-a56acec9-e5c8-4684-8de7-090549bd59ee" src="https://github.com/2000kavinda/NAPOT./assets/98000159/d4988781-59ec-4386-8be8-adaf16d14fb7">
+
+
+<br><br><br>
+
+<img width="510" alt="259075392-a407c1db-94fe-4540-8b49-1bd99608c47d" src="https://github.com/2000kavinda/NAPOT./assets/98000159/868df4e0-405a-4595-b823-beb500d4396d">
+
 <p>IIn this lecture page students can easily get to know about the lecture schedule and day to day time table. Also students can go through the lecture notes and download the lecture materials , submit assignments, do online quizzes as well. And also students can give feedback through this page as well.
 If students want to check their attendance, profile and marks they can simply type their ID number and can search it.
 Lecturers can upload the lecture materials to this and also they can download the assignments done by the students. To upload the lecture materials lecturers have to add lecture number and the topic. As well as they can add an assignments, quizzes also to this platform.</p><br><br><br>
-<img width="496" alt="Screenshot 2023-08-08 at 16 45 30" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/ca95bf30-3e35-412d-9df4-74aceef961f6">
-<img width="517" alt="Screenshot 2023-08-08 at 16 45 44" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/bf8d354a-7eb3-4686-aacc-b94649ee7427">
-<img width="504" alt="Screenshot 2023-08-08 at 16 45 57" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/0865b95f-9826-40ce-8533-85712aaf1585">
-<img width="509" alt="Screenshot 2023-08-08 at 16 46 34" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/1908387b-62cc-4111-9430-ff5d2833345d">
-<img width="509" alt="Screenshot 2023-08-08 at 16 46 41" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/9bbcb07b-0081-40c8-8aec-8a17a56cf885">
+
+<img width="496" alt="259082005-ca95bf30-3e35-412d-9df4-74aceef961f6" src="https://github.com/2000kavinda/NAPOT./assets/98000159/2624fbd2-c588-423e-bf85-8145b127e0e6">
+<img width="517" alt="259082033-bf8d354a-7eb3-4686-aacc-b94649ee7427" src="https://github.com/2000kavinda/NAPOT./assets/98000159/ae496174-051c-47aa-9e4b-e06ab789abd3">
+<img width="504" alt="259082044-0865b95f-9826-40ce-8533-85712aaf1585" src="https://github.com/2000kavinda/NAPOT./assets/98000159/e08c539c-a8bf-444a-aa7e-d5ee6431a3ff">
+<img width="509" alt="259082196-1908387b-62cc-4111-9430-ff5d2833345d" src="https://github.com/2000kavinda/NAPOT./assets/98000159/c33632ba-7b5f-498c-9911-f969a044e19d">
+<img width="509" alt="259082206-9bbcb07b-0081-40c8-8aec-8a17a56cf885" src="https://github.com/2000kavinda/NAPOT./assets/98000159/c29aa5f2-052b-4089-bb11-82dfc39e389c">
+
+
