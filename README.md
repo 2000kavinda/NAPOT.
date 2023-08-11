@@ -2,6 +2,11 @@
 "NSBM All Portal"<br>
 <img width="190" alt="Screenshot 2023-08-08 at 15 35 25" src="https://github.com/2000kavinda/NAPOT./assets/98000159/48b240af-bd20-4c0e-a90b-2f2a521f83b4">
 
+<a href="https://drive.google.com/file/d/1cC6guzPNV7Puz0fy87diFaXsz6a8I_bL/view?usp=sharing">Short video "How NAPOT Application works"</a>
+<br><br>
+<a href="https://drive.google.com/file/d/1TSFbJXFz8TZhQzdMTTUVzDifRrfinvHS/view?usp=sharing">View full report</a>
+
+<h1>Summary from full report</h1>
 <h2>Introduction</h2>
 <p>main concept
 "One app for the all parties of NSBM"
@@ -104,6 +109,8 @@ New students also come to the system as guest and they can explore the functiona
 <img width="477" alt="Screenshot 2023-08-08 at 15 55 06" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/6c6878d1-9dac-4af3-942a-900dfa2a8964"><br>
 <img width="419" alt="Screenshot 2023-08-08 at 15 55 13" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/23fb64b8-f938-49d3-9f29-2988368555d7"><br>
 <img width="363" alt="Screenshot 2023-08-08 at 15 55 19" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/63e73814-260a-44b1-8fc4-7e36744d939a"><br>
+<a href="https://drive.google.com/file/d/1Dv8vxNGOr3WjXRGVpkJr57AyZV9-ziB3/view">View full DFD diagram</a>
+<br>
 
 <p>After filling in the student registration form, the details related to the registration form will go to the admin through the signup process. After the admin checks it and accepts the student's registration, the login credentials will go to the student through the approve registration process. Also, the registry data and student credentials data are stored in the student data database.<br><br>
 When student try log in to the system, the login process allows the student to enter the system by checking the data in the student data database.<br><br>
